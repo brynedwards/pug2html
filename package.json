@@ -1,0 +1,17 @@
+{
+  "name": "pug2html",
+  "version": "1.0.0",
+  "description": "Convert Pug to HTML",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^17.0.0"
+  },
+  "dependencies": {
+    "js-beautify": "^1.14.3",
+    "pug": "^3.0.2"
+  }
+}
